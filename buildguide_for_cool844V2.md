@@ -44,5 +44,14 @@ M2ねじ8mmをスイッチプレート、M2スペーサー3mm、PCB、M2スペ�
 <br>
 # 11　キーキャップの装着
 お気に入りのキーキャップを装着して完成です。<br>
+<br>
+# 12　ファームウェア
+cool844と同じものが使えます。<br>
+[REMAP](https://remap-keys.app/configure)に対応しました。使い方は次の通りです。<br>
+最初に、cool844にREMAP用のhexファイル「[cool844_via.hex](https://github.com/telzo2000/cool844)」とREMAP用のJsonファイル「[cool844_remap.json](https://github.com/telzo2000/cool844)」をダウンロードしてQMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
+　[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
+
+　QMK Toolboxの使い方は詳しく書きませんが、REMAP用のhexファイルをダウンロードして、「Local File」で選択してください。pro microをPCに接続し、リセットボタンを押して書き込みます。（リセットボタンをダブルクリックしないと書き込めないパターンのものもあります）<br>
+　書き込み方法などは[サリチル酸さんの（初心者編）自作キーボードにファームウェアを書き込むの記事](https://salicylic-acid3.hatenablog.com/entry/qmk-configurator)がとても参考になります。
 
 
