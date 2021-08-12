@@ -20,3 +20,6 @@ PCB基板の下面に、スプリングピンヘッダ２個をそれぞれ、�
 スプリングピンヘッダにpro microを差し込んで、pro microとスプリングピンヘッダをハンダ付けをしてください。PCBとスプリングピンヘッダのハンダ付けは不要です。<br>
 <br>
 # ６　ドーターボードの作成
+[これ](https://github.com/telzo2000/Hello_keyboard/blob/main/dbforcool844/buildlog.md)を参考にしてください。<br>
+<br>
+
