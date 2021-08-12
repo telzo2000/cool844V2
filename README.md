@@ -7,6 +7,7 @@ cool844で行った40%アリス配列は、使い勝手が良かったので、�
 
 # ビルドガイド
 <br>
+
 [こちら](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V2.md)になります。<br>
 <br>
 
