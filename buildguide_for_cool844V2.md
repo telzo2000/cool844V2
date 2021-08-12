@@ -47,7 +47,8 @@ M2ねじ8mmをスイッチプレート、M2スペーサー3mm、PCB、M2スペ�
 <br>
 # 12　ファームウェア
 cool844と同じものが使えます。<br>
-[REMAP](https://remap-keys.app/configure)に対応しました。使い方は次の通りです。<br>
+[REMAP](https://remap-keys.app/configure)に対応しています。REMAPではcool844と表示されますが、問題ありません。<br>
+使い方は次の通りです。<br>
 最初に、cool844にREMAP用のhexファイル「[cool844_via.hex](https://github.com/telzo2000/cool844)」とREMAP用のJsonファイル「[cool844_remap.json](https://github.com/telzo2000/cool844)」をダウンロードしてQMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
