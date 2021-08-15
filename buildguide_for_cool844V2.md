@@ -1,4 +1,4 @@
-# cool844V2ビルドガイド
+# cool844V2ビルドガイド（ver.2.0対応)
 
 # 0　参考
 cool844V2は基本、cool844と同じです。組み立てに困りましたら、cool844の[ビルドガイド](https://github.com/telzo2000/cool844/blob/main/buildguideforcool844.md)を参考にしてください。<br>
@@ -33,12 +33,14 @@ PCB基板の下面に、スプリングピンヘッダ２個をそれぞれ、�
 # ６　ドーターボードの作成
 [これ](https://github.com/telzo2000/Hello_keyboard/blob/main/dbforcool844/buildlog.md)を参考にしてください。<br>
 作成したドーターボードは、USB-C端子側をPCBに触れるように置いて、ハンダ付けで固定します。<br>
+![](img/img00010.jpg)
 マイクロUSB端子は、pro microの端子に装着してください。<br>
 マイクロUSB端子（オス）付きケーブルが同封されている場合、赤色をVBUS、白色をD-、緑色をD+、黒色をGNDにつないでください。<br>
 USBタイプC基板には、GND端子が２箇所ありますが、どちらでも構いません。また、ケーブルの長さは調節して使用してください。<br>
 <br>
 # 7　スタビライザーの装着
 PCB基板の上面にスタビライザー2Uサイズを３箇所を装着してください。<br>
+![](img/img00009.jpg)
 <br>
 # 8 スイッチプレートの装着
 PCBにスイッチプレートを装着します。<br>
