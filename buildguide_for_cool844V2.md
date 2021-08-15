@@ -1,5 +1,6 @@
 # cool844V2ビルドガイド（ver.2.0対応)
 
+![](img/img00012.jpg)
 # 0　参考
 cool844V2は基本、cool844と同じです。組み立てに困りましたら、cool844の[ビルドガイド](https://github.com/telzo2000/cool844/blob/main/buildguideforcool844.md)を参考にしてください。<br>
 <br>
@@ -55,6 +56,7 @@ M2ねじ8mmをスイッチプレート、M2スペーサー3mm、PCB、M2スペ�
 <br>
 # 11　キーキャップの装着
 お気に入りのキーキャップを装着して完成です。<br>
+![](img/img00011.jpg)
 <br>
 # 12　ファームウェア
 cool844と同じものが使えます。<br>
