@@ -19,10 +19,11 @@ ver.2.1は自分用、最初に用意したものは透明なトッププレー�
 <br>
 # ビルドガイド
 
-[こちら](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V2.md)になります。<br>
+[こちら（ver.2.0）](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V2.md)になります。<br>
 <br>
 
 # 今後の予定
 20210813 V2(ver.2.0)を頒布しました。<br>
-20210815 V2(ver.2.1)を発注しました。
+20210815 V2(ver.2.1)を発注しました。<br>
+20210830 頒布用にアクリル部品の追加を発注しました。<br>
 
