@@ -73,6 +73,9 @@ M2ねじ8mmをスイッチプレート、M2スペーサー3mm、PCB、M2スペ�
 このキーボードはQMKというキーボード用のソフトウェアで動作するようにプログラミングしています。<br>
 [Yoichiro Tanaka@yoichiro](https://twitter.com/yoichiro)さん等が開発した[REMAP](https://remap-keys.app/)が使用できます。
 <br>
+
+**ファームウェアの書き込み**
+<br>
 pro microとPCをUSBケーブルで繋ぎ、google chromeで[REMAP](https://remap-keys.app/)サイトへアクセスしてください。<br>
 
 ![](img/img00079.jpg)
@@ -95,6 +98,27 @@ Flash Firmwareが起動して、pro microへの書き込みができます。
 <br>
 以上で、pro microへのファームウェアの書き込みは完了です。
 <br>
+<br>
+**キーレイアウトの編集**
+<br>
+google chromeが動くパソコンとcool847をUSBケーブルでつなぎます。<br>
+そのあと、[REMAP](https://remap-keys.app/configure)にアクセスして、 
+
+
+![](img/remap001.png)
+画面中央の「＋KEYBOARD」をクリックしてください。<br>
+<br>
+![](img/remap002.png)
+キーボードとパソコンが繋がっていれば、次のような表示でます。
+![](img/img00083.jpg)
+cool844を選び、「接続」をクリックしてください。<br>
+
+
+![](img/img00084.jpg)
+
+
+そうすると、REMAPのサイト上で、cool844のキーレイアウトを編集することができます。
+
 REMAPのおかげで、自作キーボードのファームウェアの書き込み、キーレイアウトの変更が大変、簡単になりました。
 <br>
 <br>
