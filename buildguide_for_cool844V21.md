@@ -162,13 +162,58 @@ PCBの上面にミドルプレート上１枚を重ねます。
 
 # 12　ファームウェア
 cool844と同じものが使えます。<br>
-[REMAP](https://remap-keys.app/configure)に対応しています。REMAPではcool844と表示されますが、問題ありません。<br>
-使い方は次の通りです。<br>
-最初に、cool844にREMAP用のhexファイル「[cool844_via.hex](https://github.com/telzo2000/cool844)」とREMAP用のJsonファイル「[cool844_remap.json](https://github.com/telzo2000/cool844)」をダウンロードしてQMK Toolboxにて使用してください。QMK Toolboxは下記のリンク先にあります。<br>
-[QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
+[REMAP](https://remap-keys.app/configure)に対応しています。
+[REMAP](https://remap-keys.app/configure)ではcool844と表示されますが、問題ありません。<br>
+[Yoichiro Tanaka@yoichiro](https://twitter.com/yoichiro)さん等が開発した[REMAP](https://remap-keys.app/)が使用できます。
+<br>
 
-QMK Toolboxの使い方は詳しく書きませんが、REMAP用のhexファイルをダウンロードして、「Local File」で選択してください。pro microをPCに接続し、リセットボタンを押して書き込みます。（リセットボタンをダブルクリックしないと書き込めないパターンのものもあります）<br>
-書き込み方法などは[サリチル酸さんの（初心者編）自作キーボードにファームウェアを書き込むの記事](https://salicylic-acid3.hatenablog.com/entry/qmk-configurator)がとても参考になります。
+**ファームウェアの書き込み**
+<br>
+pro microとPCをUSBケーブルで繋ぎ、google chromeで[REMAP](https://remap-keys.app/)サイトへアクセスしてください。<br>
+
+![](img/img00079.jpg)
+
+画面中央の「KEYBOARD CATALOG」をクリックしてください。<br>
+画面が変わりましたら、左上の「Keyboard Name」に「cool」と
+入力して、下部の「SEARCH」をクリックしてください。
+<br>
+coolシリーズのキーボードが表示されます。
+![](img/img00080.jpg)
+この中から、該当するキーボードを選び、クリックしてください。
+<br>
+例えば、cool844であれば、次の画面に変わります。
+そこでタブの「FIRMWARE」をクリックすると、
+![](img/img00081.jpg)
+このように、via用hexファイルが表示されます。
+「FLASH」をクリックすると、
+![](img/img00082.jpg)
+Flash Firmwareが起動して、pro microへの書き込みができます。
+<br>
+以上で、pro microへのファームウェアの書き込みは完了です。
+<br>
+<br>
+**キーレイアウトの編集**
+<br>
+google chromeが動くパソコンとcool847をUSBケーブルでつなぎます。<br>
+そのあと、[REMAP](https://remap-keys.app/configure)にアクセスして、 
+
+
+![](img/remap001.png)
+画面中央の「＋KEYBOARD」をクリックしてください。<br>
+<br>
+![](img/remap002.png)
+キーボードとパソコンが繋がっていれば、次のような表示でます。
+![](img/img00083.jpg)
+cool844を選び、「接続」をクリックしてください。<br>
+
+
+![](img/img00084.jpg)
+
+
+そうすると、REMAPのサイト上で、cool844のキーレイアウトを編集することができます。
+
+REMAPのおかげで、自作キーボードのファームウェアの書き込み、キーレイアウトの変更が大変、簡単になりました。
+<br>
 
 # 13　60%汎用ケースへの換装
 ケースはcool844と同じように、GH60系60％キーボードケースを使うことが前提になっています。
