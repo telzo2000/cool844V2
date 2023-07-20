@@ -20,6 +20,7 @@ ver.2.1は自分用、最初に用意したものは透明なトッププレー�
 # ビルドガイド
 
 [こちら（ver.2.1）](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V21.md)になります。
+[English version(ver.2.1)](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V21_english.md)
 <br>
 [こちら（ver.2.0）](https://github.com/telzo2000/cool844V2/blob/main/buildguide_for_cool844V2.md)になります。<br>
 <br>
